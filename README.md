@@ -13,4 +13,7 @@ Repositório referente ao trabalho 02, exercicios resolvidos e propostos do Capi
   * Roger Moura Sarmento
 
 ### Linguagem utilizada:
-  * Java
+  * Java <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+
+### Ambiente utilizado:
+ * Eclipse <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
